@@ -7,7 +7,6 @@ Analisis penyewaan berdasarkan tahun
 Filter rentang tanggal
 Insight interaktif menggunakan Streamlit
 # Dataset
-Dataset yang digunakan:
 Dataset berisi informasi mengenai:
   - tanggal penyewaan
   - musim
